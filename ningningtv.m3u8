@@ -671,3 +671,48 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#EXTINF:-1 group-title="Series and Movies",CINEMAX 2
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Series and Movies",HBO 2
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_hbo_2/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Series and Movies",HBO 3
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Series and Movies",MOVIES NOW
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
+https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies",MNX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies",MN+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies",SONY PIX
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
