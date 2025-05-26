@@ -850,3 +850,107 @@ https://tr.live.cdn.cgates.lt/live/dash/561305/index.mpd
 
 #EXTINF:-1 group-title="Kids and Family",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="Music",MTV
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+
+#EXTINF:-1 group-title="Music",MTV LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
+https://tr.live.cdn.cgates.lt/live/dash/560701/index.mpd
+
+#EXTINF:-1 group-title="Music",MTV HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
+https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
+
+#EXTINF:-1 group-title="Music",CLUB MTV
+http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",MYX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Music",ROCK TV MANILA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="Music",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
+
+#EXTINF:-1 group-title="Music",MTV 00S
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba29ad1cfb7c4a8b95cca44cf4641e78:b5db7930ad42ca8e7eff680ffba8a713
+https://tr.live.cdn.cgates.lt/live/dash/560410/index.mpd
+
+#EXTINF:-1 group-title="Music",MTV 80S
+https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",MTV 90S
+http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",NEW KPOP
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+
+#EXTINF:-1 group-title="Music",K-POP BY CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+
+#EXTINF:-1 group-title="Music",KPOP
+http://45.184.87.142:8000/play/a02x
+
+#EXTINF:-1 group-title="Music",KPOP TV PLAY
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 group-title="Music",STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music",STINGRAY CMUSIC
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music",STINGRAY DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music",STINGRAY ICONCERTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:eb65e4b92473ed6e33ff05a56343dbab
+https://tr.live.cdn.cgates.lt/live/dash/561101/index.mpd
+
+#EXTINF:-1 group-title="Music",NOW 70S
+https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
+
+#EXTINF:-1 group-title="Music",NOW 80S
+https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
+
+#EXTINF:-1 group-title="Music",NOW ROCK
+https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
+
+#EXTINF:-1 group-title="Music",MEZZO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ecfce9c56a46a42e4aba2dcf8037fed:3085cadf11d93aa24b88ba938ad61ccd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+
+#EXTINF:-1 group-title="Music",MEZZO LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:4d09e48cae8061ed7612c1c969804922
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
+
+#EXTINF:-1 group-title="Music",MTV BIGGEST POP
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
+#EXTINF:-1 group-title="Music",MTV SPANKIN' NEW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+
+#EXTINF:-1 group-title="Music",MTV UNPLUGGED
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
+
+#EXTINF:-1 group-title="Music",MTV FLOW LATINO
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+
+#EXTINF:-1 group-title="Music",YO! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+
