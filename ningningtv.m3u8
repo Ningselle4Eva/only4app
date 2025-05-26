@@ -716,3 +716,39 @@ https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
 
 #EXTINF:-1 group-title="Series and Movies",SONY PIX
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+
+#EXTINF:-1 group-title="Series and Movies",UNIVERSAL TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae04c9f2517cc96bdd039770fd03c901:cc04c096cfdf3f4e194428aa57d81a57
+https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/a7i5fpzezv/out/v1/f79c30ef69104693b6ceac0eba60e6d6/cenc.mpd
+
+#EXTINF:-1 group-title="Series and Movies",STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#EXTINF:-1 group-title="Series and Movies",13 ULICA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dff864cb808847169951c8e840e17b09:7ae6a540312e9c3e3f4817c4b0441879
+https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455431/84/dash/73d1839b/live.mpd
+
+#EXTINF:-1 group-title="Series and Movies",SCI FI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcc5e55c53284b25b8f86320bd9d8709:ea6a841c48878076ed9a645e2b3a70f4
+https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455428/81/dash/e7fcf0b5/live.mpd
+
+#EXTINF:-1 group-title="Series and Movies",ASTRO SHOWCASE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
+
+#EXTINF:-1 group-title="Series and Movies",ASTRO BOO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
