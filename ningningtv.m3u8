@@ -631,6 +631,18 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/tracks-v1a1/mono.m3u
 #KODIPROP:inputstream.adaptive.license_key=10fbbdf515754fb0aacd942cd2e95f09:6b41659a14bfccd176426c0ef39672ff
 https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455155/61/dash/468c34d1/live.mpd
 
+#EXTINF:-1  group-title="General Entertainment",SONY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8567bf0707bf910f611e5cf2ef352f:8b30ddee60bb9fe6653f1eb8c9b85d5d
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.mpd
+
+#EXTINF:-1  group-title="General Entertainment",SONY MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99a33ed8fd9e660b42ae6be5c889bf6d:e1bdf81bc16ef854b1959802e9dfc5b1
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.mpd
+
 #EXTINF:-1 group-title="General Entertainment",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -640,7 +652,10 @@ http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 
 #EXTINF:-1  group-title="General Entertainment",PARAMOUNT NETWORK
-http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cba7770184e4064ad3fee87a2c67ca2:37653a3bc09133c91a74ede16f9f7ecc
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.mpd
 
 #EXTINF:-1 group-title="General Entertainment",TAP TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -733,6 +748,12 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/
 
 #EXTINF:-1 group-title="General Entertainment",HBO POP
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General Entertainment",TNT
+http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="General Entertainment",TNT SERIES
+http://45.235.37.254/tntserieshd/index.m3u8
 
 #EXTINF:-1 group-title="General Entertainment",UNIVERSAL TV
 http://45.235.37.254/universalhd/index.m3u8
@@ -847,6 +868,9 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_nickt
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
+#EXTINF:-1 group-title="Kids and Family",DISCOVERY KIDS
+http://45.235.37.254/discoverykidshd/index.m3u8
+
 #EXTINF:-1 group-title="Kids and Family",ENGLISH CLUB TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62396662653361643639336337326338:35306664303035323431383738663631
@@ -885,7 +909,7 @@ https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8deb4ec9f11495ba29ef79eeec44f09:81ae83f4e24e8cb1a652bc51294112d4
-https://cors-proxy.cooks.fyi/http://cdn-s-lb2.pluscdn.pl/ch/1454366/26/dash/41167e6d/live.mpd
+https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1454366/26/dash/41167e6d/live.mpd
 
 #EXTINF:-1 group-title="Music",MTV HITS
 http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
