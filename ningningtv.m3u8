@@ -511,62 +511,62 @@ https://jmp2.uk/sam-DEBD4900001QV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3f4423fecb09438c8782af0a7bcb2204:fa49373ddac7b0e9079e62a1ab55807c
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HBO
+#EXTINF:-1 group-title="General Entertainment",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Series and Movies",CINEMAX
+#EXTINF:-1 group-title="General Entertainment",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Series and Movies",HBO HITS
+#EXTINF:-1 group-title="General Entertainment",HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HBO SIGNATURE
+#EXTINF:-1 group-title="General Entertainment",HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HBO FAMILY
+#EXTINF:-1 group-title="General Entertainment",HBO FAMILY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-1 group-title="Series and Movies",ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="General Entertainment",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",ROCK ACTION
+#EXTINF:-1 group-title="General Entertainment",ROCK ACTION
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH//ROCK_ACTION/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",KIX
+#EXTINF:-1 group-title="General Entertainment",KIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
-#EXTINF:-1 group-title="Series and Movies",THRILL
+#EXTINF:-1 group-title="General Entertainment",THRILL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
-#EXTINF:-1 group-title="Series and Movies",AXN
+#EXTINF:-1 group-title="General Entertainment",AXN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -574,119 +574,119 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=axn
 
-#EXTINF:-1 group-title="Series and Movies",WARNER TV
+#EXTINF:-1 group-title="General Entertainment",WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",TCM CINEMA
+#EXTINF:-1 group-title="General Entertainment",TCM CINEMA
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
 
-#EXTINF:-1 group-title="Series and Movies",ADULT SWIM
+#EXTINF:-1 group-title="General Entertainment",ADULT SWIM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 
-#EXTINF:-1 group-title="Series and Movies",STAR ACTION
+#EXTINF:-1 group-title="General Entertainment",STAR ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
 https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",STAR CHANNEL
+#EXTINF:-1 group-title="General Entertainment",STAR CHANNEL
 https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 
-#EXTINF:-1 group-title="Series and Movies",STAR MOVIES
+#EXTINF:-1 group-title="General Entertainment",STAR MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",STAR WORLD
+#EXTINF:-1 group-title="General Entertainment",STAR WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HITS
+#EXTINF:-1 group-title="General Entertainment",HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HITS MOVIES
+#EXTINF:-1 group-title="General Entertainment",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HITS NOW
+#EXTINF:-1 group-title="General Entertainment",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
-#EXTINF:-1 group-title="Series and Movies",FX
+#EXTINF:-1 group-title="General Entertainment",FX
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",FX COMEDY
+#EXTINF:-1 group-title="General Entertainment",FX COMEDY
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10fbbdf515754fb0aacd942cd2e95f09:6b41659a14bfccd176426c0ef39672ff
 https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455155/61/dash/468c34d1/live.mpd
 
-#EXTINF:-1 group-title="Series and Movies",CINEMAWORLD
+#EXTINF:-1 group-title="General Entertainment",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Series and Movies",COMEDY CENTRAL
+#EXTINF:-1 group-title="General Entertainment",COMEDY CENTRAL
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 
-#EXTINF:-1  group-title="Series and Movies",PARAMOUNT NETWORK
+#EXTINF:-1  group-title="General Entertainment",PARAMOUNT NETWORK
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",TAP TV
+#EXTINF:-1 group-title="General Entertainment",TAP TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-1 group-title="Series and Movies",TAP EDGE
+#EXTINF:-1 group-title="General Entertainment",TAP EDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Series and Movies",TAP MOVIES
+#EXTINF:-1 group-title="General Entertainment",TAP MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
-#EXTINF:-1 group-title="Series and Movies",TAP ACTIONFLIX
+#EXTINF:-1 group-title="General Entertainment",TAP ACTIONFLIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
-#EXTINF:-1 group-title="Series and Movies",CINEMAX 2
+#EXTINF:-1 group-title="General Entertainment",CINEMAX 2
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HBO 2
+#EXTINF:-1 group-title="General Entertainment",HBO 2
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_hbo_2/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="Series and Movies",HBO 3
+#EXTINF:-1 group-title="General Entertainment",HBO 3
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
 
-#EXTINF:-1 group-title="Series and Movies",MOVIES NOW
+#EXTINF:-1 group-title="General Entertainment",MOVIES NOW
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -694,7 +694,7 @@ https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
 https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",MNX
+#EXTINF:-1 group-title="General Entertainment",MNX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -702,7 +702,7 @@ https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
 https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",MN+
+#EXTINF:-1 group-title="General Entertainment",MN+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -710,61 +710,76 @@ https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
 https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",&FLIX
+#EXTINF:-1 group-title="General Entertainment",&FLIX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",&PRIVE
+#EXTINF:-1 group-title="General Entertainment",&PRIVE
 https://re.fredflix.fun/playlist.php?id=AndPriveHDELENEW&key=2104969&e=.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",ZEE CAFE
+#EXTINF:-1 group-title="General Entertainment",ZEE CAFE
 https://re.fredflix.fun/playlist.php?id=ZeecafeHDELE&key=2105539&e=.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",SONY PIX
+#EXTINF:-1 group-title="General Entertainment",SONY PIX
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",HBO PLUS
+#EXTINF:-1 group-title="General Entertainment",HBO PLUS
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",HBO XTREME
+#EXTINF:-1 group-title="General Entertainment",HBO XTREME
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",HBO POP
+#EXTINF:-1 group-title="General Entertainment",HBO POP
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",UNIVERSAL TV
+#EXTINF:-1 group-title="General Entertainment",UNIVERSAL TV
 http://45.235.37.254/universalhd/index.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",STUDIO UNIVERSAL
+#EXTINF:-1 group-title="General Entertainment",STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
-#EXTINF:-1 group-title="Series and Movies",13 ULICA
+#EXTINF:-1 group-title="General Entertainment",13 ULICA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dff864cb808847169951c8e840e17b09:7ae6a540312e9c3e3f4817c4b0441879
 https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455431/84/dash/73d1839b/live.mpd
 
-#EXTINF:-1 group-title="Series and Movies",SCI FI
+#EXTINF:-1 group-title="General Entertainment",SCI FI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcc5e55c53284b25b8f86320bd9d8709:ea6a841c48878076ed9a645e2b3a70f4
 https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455428/81/dash/e7fcf0b5/live.mpd
 
-#EXTINF:-1 group-title="Series and Movies",ASTRO SHOWCASE
+#EXTINF:-1 group-title="General Entertainment",ASTRO SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
 
-#EXTINF:-1 group-title="Series and Movies",ASTRO BOO
+#EXTINF:-1 group-title="General Entertainment",ASTRO BOO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
+
+#EXTINF:-1 group-title="General Entertainment",UNIVERSAL PREMIERE
+http://live1.cl.cdn.lla.vtrplay.com/universalpremierehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="General Entertainment",UNIVERSAL CINEMA
+http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="General Entertainment",UNIVERSAL COMEDY
+http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="General Entertainment",UNIVERSAL CRIME
+http://live1.cl.cdn.lla.vtrplay.com/universalcrimehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="General Entertainment",UNIVERSAL REALITY
+http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="Kids and Family",DISNEY CHANNEL
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -970,7 +985,7 @@ https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 #EXTINF:-1 group-title="Factual and Lifestyle",NATIONAL GEOGRAPHIC WILD
 http://vegafibratv.com:8085/natgeowild/index.m3u8
 
-#EXTINF:-1 group-title="Series and Movies",NAT GEO PEOPLE
+#EXTINF:-1 group-title="General Entertainment",NAT GEO PEOPLE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3141a4ae9d724466a71b5f573d4d4209:b7a93193de524819150360f486645d2f
