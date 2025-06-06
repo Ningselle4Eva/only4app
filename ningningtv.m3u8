@@ -623,13 +623,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 #EXTINF:-1 group-title="General Entertainment",FX
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="General Entertainment",FX COMEDY
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10fbbdf515754fb0aacd942cd2e95f09:6b41659a14bfccd176426c0ef39672ff
-https://cors.jugorder.de/http://cdn-s-lb2.pluscdn.pl/ch/1455155/61/dash/468c34d1/live.mpd
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 
 #EXTINF:-1  group-title="General Entertainment",SONY CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -754,6 +748,9 @@ http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profi
 
 #EXTINF:-1 group-title="General Entertainment",TNT SERIES
 http://45.235.37.254/tntserieshd/index.m3u8
+
+#EXTINF:-1 group-title="General Entertainment",SPACE
+http://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="General Entertainment",UNIVERSAL TV
 http://45.235.37.254/universalhd/index.m3u8
