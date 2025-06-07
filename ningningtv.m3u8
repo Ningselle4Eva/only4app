@@ -332,10 +332,10 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #EXTINF:-1 group-title="Local",HEART OF ASIA
-https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1 group-title="Local",I HEART MOVIES
-https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1 group-title="Local",SOLARFLIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -785,7 +785,11 @@ https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs
 https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
 
 #EXTINF:-1 group-title="General Entertainment",UNIVERSAL PREMIERE
-http://live1.cl.cdn.lla.vtrplay.com/universalpremierehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 
 #EXTINF:-1 group-title="General Entertainment",UNIVERSAL CINEMA
 http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -794,7 +798,11 @@ http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?
 http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="General Entertainment",UNIVERSAL CRIME
-http://live1.cl.cdn.lla.vtrplay.com/universalcrimehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="General Entertainment",UNIVERSAL REALITY
 http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1507,14 +1515,12 @@ http://live1.cl.cdn.lla.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_
 http://45.235.37.254/espnpremiumhd/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SETANTA SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
+https://ott.udptv.com/stream/udptv/setantasport1/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1 group-title="Sports",SETANTA SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
-https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
 
 #EXTINF:-1 group-title="Sports",GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1531,7 +1537,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001406/manifest.mpd?virtualDoma
 https://tracetv-sportstarts-vidaa.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",FIGHT SPORTS
-http://smt.iktv.ddns-ip.net/Smart.php?id=Fs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561205/index.mpd
 
 #EXTINF:-1 group-title="Sports",MOTORVISION+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1591,7 +1599,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fdx74zqzhu/o
 #EXTINF:-1 group-title="Sports",EXTREME SPORTS CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcda490bfd8148179b0e93c5ef0d80e3:e4293507d592df040f2186f1ce82a712
-https://tr.live.cdn.cgates.lt/live/dash/561206/index.mpd
+https://cors.jugorder.de/https://tr.live.cdn.cgates.lt/live/dash/561206/index.mpd
 
 #EXTINF:-1 group-title="Sports",W-SPORT
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1650,22 +1658,13 @@ https://server.priterytivi.com/js3/tracks-v1a1/mono.m3u8
 https://server.priterytivi.com/js4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",GO3 SPORT 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
-https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+https://ott.udptv.com/stream/udptv/go3sport/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1 group-title="Sports",GO3 SPORT 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+https://ott.udptv.com/stream/udptv/go3sport2/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1 group-title="Sports",GO3 SPORT OPEN
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+https://ott.udptv.com/stream/udptv/go3sportopen/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1 group-title="Sports",LALIGA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
